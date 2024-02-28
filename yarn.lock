@@ -1602,7 +1602,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/preset-react@npm:^7.22.15":
+"@babel/preset-react@npm:^7.22.15, @babel/preset-react@npm:^7.23.3":
   version: 7.23.3
   resolution: "@babel/preset-react@npm:7.23.3"
   dependencies:
@@ -17492,6 +17492,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
+    "@babel/preset-react": "npm:^7.23.3"
     "@redwoodjs/core": "npm:6.6.4"
   languageName: unknown
   linkType: soft
@@ -19938,6 +19939,7 @@ __metadata:
     "@redwoodjs/web": "npm:6.6.4"
     "@types/react": "npm:18.2.37"
     "@types/react-dom": "npm:18.2.15"
+    humanize-string: "npm:2.1.0"
     prop-types: "npm:15.8.1"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"

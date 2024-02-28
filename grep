@@ -1,0 +1,12 @@
+README.md
+api
+graphql.config.js
+grep
+jest.config.js
+node_modules
+package.json
+prettier.config.js
+redwood.toml
+scripts
+web
+yarn.lock
